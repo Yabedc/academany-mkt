@@ -9,10 +9,10 @@ Es como formamos a nuestros instructores.
 Es también una gran manera de adquirir experiencia en una amplia gama de habilidades de fabricación digital, electrónica, moldes, composites, etc. en un corto periodo de tiempo (típicamente 19 semanas)
 
 No es para medrosos pero las recompensas valen la pena. 
-**Como empezó todo?**
+**¿Cómo empezó todo?**
 Fab Academy fue desarrollado para ensenar habilidades reales en laboratorios de fabricación digital. Empezó como un proyecto innovador del MIT’s Center for Bits and Atoms, y ha crecido hasta convertirse en una red global de más de 500 laboratorios. El curso del Fab Academy está basado en el popular curso de prototipado rápido del MIT _How To Make (almost) Anything_ también impartido por el profesor Neil Gershenfeld.
 
-**Como funciona?**
+**¿Cómo funciona?**
 
 - El curso comienza a mediados de Enero hasta finales de Junio
 - Cada semana, el  profesor  Neil Gershenfeld da una clase magistral sobre diferentes materias
@@ -22,7 +22,7 @@ Fab Academy fue desarrollado para ensenar habilidades reales en laboratorios de 
 -En paralelo con las tareas semanales el alumno trabaja en un proyecto final que integre la mayor parte posible de conocimientos y técnicas aprendidos durante el curso. 
 - Los estudiantes que completen todos los módulos and el proyecto final pasan a una ronda global de evaluación, que les permite obtener el Diploma del Fab Academy 
 
-**Que conocimientos  se imparten?**
+**¿Qué conocimientos  se imparten?**
 En pocas palabras: diseño, fabricación digital, electrónica, software y todo lo demás
 
 Cada miércoles el Fab Academy se centra en un tema en particular, otorgando al alumno una visión global de todo lo relacionado con la fabricación digital:
